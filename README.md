@@ -1,5 +1,7 @@
 # pick_a_bread
-Mały projekcik na hello it
+Mały projekcik na hello it 
+
+Autor: Dawid Borys 51690
 
 Build - https://drive.google.com/file/d/1d_xp2RsXFZ3oRQxHcUefVfNhACVFN7Nq/view?usp=sharing
 
