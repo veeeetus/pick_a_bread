@@ -6,7 +6,7 @@ Build - https://drive.google.com/file/d/1d_xp2RsXFZ3oRQxHcUefVfNhACVFN7Nq/view?u
 Gotowa gra - https://drive.google.com/file/d/16LIyfEJrecwhzrs97Kt3_kHIiUlMPuMl/view?usp=sharing
 
 
-Credist:
+Credits:
 
 https://www.freepik.com/free-vector/freshly-baked-baguette-illustration_375129114.htm
 
