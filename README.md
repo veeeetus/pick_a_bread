@@ -4,8 +4,11 @@ Mały projekcik na hello it
 Autor: Dawid Borys 51690
 
 I - Otwórz eq
+
 M - Zadaj dmg
+
 Kliknięcie w item - Menu Kontekstowe (Ponowny klik zamyka)
+
 Hover: Opis itemu
 
 Build - https://drive.google.com/file/d/1d_xp2RsXFZ3oRQxHcUefVfNhACVFN7Nq/view?usp=sharing
